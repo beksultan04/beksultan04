@@ -1,17 +1,16 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Привет! Меня зовут Бексултан Эгембердиев
 ========================================================================================================================================
 
-# 🌫️ About Me  
+# 🌫️ О себе  
 
-💡 Full-stack developer and web scraper, crafting efficient and scalable solutions.     
-🚀 Passionate about tackling complex freelance projects and pushing my limits.  
-🛠️ Experienced in backend development with Django, FastAPI, and Flask.  
-🎨 Building modern UIs with React, Vue.js, and Nuxt.js for seamless user experiences.  
-🗄️ Managing data with PostgreSQL, Redis, and scalable database solutions.  
-⚙️ Deploying and automating workflows with Docker, AWS, and Vercel.  
-📡 Optimizing performance with RabbitMQ, Celery, and async processing.      
-📍 Based in Kyrgyzstan (GMT+6).  
-📫 Open to collaboration—let’s create something innovative! 
+🎓 Студент 3-го курса по направлению "Программная инженерия".    
+👨‍💻 Фронтенд-разработчик с 3+ годами опыта. 
+🏆 Выполнил 100+ заказов на фрилансе.  
+✨ Пишу чистый код на HTML, CSS и JavaScript в VS Code. 
+🔥 Опыт работы с WordPress и Figma. 
+🚀 Использую HTMX и Vue.js для разработки.  
+🛠️ Занимаюсь бэкендом на Java с фреймворком Spring.   
+🤖 Создаю Telegram-ботов на Python.
 
 
 ## 🌐 Socials:
