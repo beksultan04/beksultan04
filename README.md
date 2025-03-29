@@ -77,14 +77,6 @@
 </details>
 
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beksultan04/beksultan04/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beksultan04/beksultan04/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/beksultan04/beksultan04/output/github-snake.svg" />
-</picture>
----
-
 # 📊 Статистика GitHub:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beksultan04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
