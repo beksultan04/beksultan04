@@ -1,19 +1,19 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Привет! Меня зовут Бексултан Эгембердиев
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello! My name is Beksultan Egemberdiev
 ========================================================================================================================================
 
-# 🌫️ О себе  
+# 🌫️ About me  
 
-🎓 Студент 3-го курса по направлению "Программная инженерия".                                                  
-👨‍💻 Фронтенд-разработчик с 3+ годами опыта.                                                                                         
-🏆 Выполнил 100+ заказов на фрилансе.                                                                                    
-✨ Пишу чистый код на HTML, CSS и JavaScript в VS Code.                                                                                   
-🔥 Опыт работы с WordPress и Figma.                                                                                           
-🚀 Использую HTMX и Vue.js для разработки.                                                                                        
-🛠️ Занимаюсь бэкендом на Java с фреймворком Spring.                                                                                               
-🤖 Создаю Telegram-ботов на Python.                                                                                                                  
+🎓 3rd year student majoring in Software Engineering.                                                  
+👨‍💻 Frontend developer with 3+ years of experience.                                                                                         
+🏆 Completed 100+ orders as a freelancer.                                                                                    
+✨ I write clean HTML, CSS and JavaScript code in VS Code.                                                                                   
+🔥 Experience with WordPress and Figma.                                                                                         
+🚀 I use HTML and Vue.js for development.                                                                                       
+🛠️ I work on the backend in Java with the Spring framework.                                                                                         
+🤖 I create Telegram bots in Python.                                                                                                                  
 
 
-## 🌐 Социальные сети:
+## 🌐 Social media:
 <div align="left">
   <a href="https://www.youtube.com/@Egemberdiev04" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
@@ -28,9 +28,9 @@
 
 
 
-## 💻 Навыки
+## 💻 Skills
 <details>
-  <summary>🚀 Языки программирования</summary>
+  <summary>🚀 Programming languages</summary>
   
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,14 +42,14 @@
 
 
 <details>
-  <summary>🖥️ Бэкенд</summary>
+  <summary>🖥️ Backend</summary>
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 </details>
 
 <details>
-  <summary>🎨 Фронтенд & Стилистика</summary>
+  <summary>🎨 Frontend & Stylistics</summary>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -65,25 +65,25 @@
 </details>
 
 <details>
-  <summary>🛠️ DevOps & Инструменты</summary>
+  <summary>🛠️ DevOps & Tools</summary>
   
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
 <details> 
-  <summary>📱 Аппаратное обеспечение</summary>
+  <summary>📱 Hardware</summary>
 
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 </details>
 
 
-# 📊 Статистика GitHub:
+# 📊 GitHub stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beksultan04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beksultan04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 🏆 Трофеи GitHub
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beksultan04&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
